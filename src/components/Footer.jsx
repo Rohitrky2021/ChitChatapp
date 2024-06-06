@@ -3,7 +3,7 @@ import "../css/Footer.css";
 
 function Footer() {
   const handleClick = function () {
-    window.open("https://shalu-ambasta.vercel.app/", "_blank", "noopener");
+    window.open("https://portfolio-site-rohityadav.vercel.app/", "_blank", "noopener");
   };
 
   return (
